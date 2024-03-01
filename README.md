@@ -6,7 +6,7 @@ Firstly, it is necessary to download Python 3.10.0. Subsequently when the instal
 
 ```
 git clone https://github.com/petriknovis/rag_0.1.git
-cd .\rag_0.1\
+cd .\rag-0.1\
 ```
 
 Upon entering the folder, the primary task entails the installation of the necessary requirements to ensure the proper functioning of this project.
