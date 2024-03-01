@@ -1,0 +1,10 @@
+#python 3.10.0
+langchain == 0.1.8
+langchain-community == 0.0.21
+langchain-openai == 0.0.6
+chromadb == 0.4.22
+langchainhub == 0.1.14
+pypdf == 4.0.2
+sentence-transformers == 2.3.1
+streamlit == 1.31.1
+docx2txt == 0.8
