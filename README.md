@@ -37,6 +37,6 @@ streamlit run .\app.py
 ```
 
 Upon initiation, a new browser tab will be opened, facilitating the testing of your application. Following the closure of the application, it will be necessary to rerun the code in order to access the testing environment once more.
-You can also monitor the progress in Langchain Smith. [Smith](https://platform.openai.com/api-keys).
+You can also monitor the progress in Langchain [Smith](https://smith.langchain.com/).
 
 Good luck!
